@@ -21,7 +21,7 @@ navigation:
 external:
 - {title: E-mail, icon: envelope, URL: "mailto: jh4581@columbia.edu"}
 - {title: Github, icon: github, URL: "https://github.com/jh4581"}
-- {title: Linkedin , icon: linkedin, URL: "www.linkedin.com/in/jinyan-huang"}
+- {title: Linkedin, icon: linkedin, URL: "www.linkedin.com/in/jinyan-huang"}
 
 plugins:
 - jekyll-feed
