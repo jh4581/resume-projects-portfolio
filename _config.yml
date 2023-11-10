@@ -3,10 +3,25 @@
 title: Jinyan Huang
 show_downloads: true
 theme: Jekyll-theme-minimal
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format : "%B %d, %Y"
 
-#Layout
+# Layout
 show_social: true
-# show_excerpts: true
+show_excerpts: true
 show_frame: true
 show_sidebar: true
+
+# Menu 
+navigation: 
+- {file: "README.md", title: About me, icon: address-card}
+
+external:
+- {title: E-mail, icon: envelope, URL: "mailto: jh4581@columbia.edu"}
+- {title: Github, icon: github, URL: "https://github.com/jh4581"}
+
+plugins:
+- jekyll-feed
 
