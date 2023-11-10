@@ -3,3 +3,10 @@
 title: Jinyan Huang
 show_downloads: true
 theme: Jekyll-theme-minimal
+
+#Layout
+show_social: true
+# show_excerpts: true
+show_frame: true
+show_sidebar: true
+
