@@ -15,8 +15,8 @@ show_frame: true
 show_sidebar: true
 
 # Menu 
-# navigation: 
-# - {file: "README.md", title: "About me", icon: address-card}
+navigation: 
+- {file: "Jinyan data resume.pdf", title: "CV", icon: home}
 
 external:
 - {title: E-mail, icon: envelope, URL: "mailto: jh4581@columbia.edu"}
