@@ -8,7 +8,7 @@ This project extensively leveraged the powerful capabilities of **Python** to co
 
 ## 3- Reason of Model Selections 
 1. **Univariate Logistic Regression:** Knowing the relationship between each single predictor and the targeted variable.
-   <img width="450" alt="image" src="">
+   <img width="800" "alt="image" src="https://github.com/jh4581/resume-projects-portfolio.github.io/blob/main/images/univariate.png">
 
 
 3. 
