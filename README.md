@@ -6,4 +6,11 @@ Analyzing the **Probability of Default (PD)** for a financial entity like a **He
 ## 2- Technical Highlights
 This project extensively leveraged the powerful capabilities of **Python** to conduct a comprehensive range of tasks including meticulous data cleaning, sophisticated preprocessing techniques, intricate modeling, and creating detailed, insightful visualizations achieved by using **Pandas, Numpy, Scikit-learn, Matplotlib, and Seaborn** to effectively handle and interpret the dataset. In the realm of predictive modeling, the project went beyond the conventional use of **Logistic regression**, embracing more sophisticated and advanced machine learning algorithms. Specifically, it included the implementation of **Decision Trees and Random Forest models**. These models are known for their ability to handle complex, non-linear relationships in data, and they provide robust, data-driven insights.
 
-## Projects
+## 3- Reason of Model Selections 
+1. **Univariate Logistic Regression:** Knowing the relationship between each single predictor and the targeted variable.
+   <img width="450" alt="image" src="">
+
+
+3. 
+
+
